@@ -33,16 +33,16 @@ h1 {
 .skills {
    
     color: #333333;
-    padding: 4%;
+    padding: 2%;
     background-color: #e89da2;
 }
 
 .skill-row {
     text-align: left;
     padding: 2%;
-   
+    line-height: 2;
     width: 50%;
-  
+    margin: auto;
 }
 .contact-me {
     color: #e89da2;
