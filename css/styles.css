@@ -60,6 +60,7 @@ h1 {
 
 .mountain-img {
     width: 50%;
+    position: relative;
 }
 
 .bottom-cloud {
